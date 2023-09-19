@@ -16,8 +16,8 @@ Objective: This exercise introduces you to writing Python code in Google Colab n
 
 Instructions:
 
--Assign group roles and note in the Canvas submission text box which who filled which roles.
--The group developer will get code from the Class_Files folder on the Google Drive, then open in in Google Colab.
--Complete the assignment together by writing and executing text and code cells as specified. For this assignment, do not use any features of Python that have not yet been discussed in the lessons or class sessions.
--Discuss the reflection questions at the end of the exercise. The group reporter will type concise answers to each in the provided text box.
--When you're finished and are ready to submit the exercise, the group developer will upload the completed notebook it to Canvas. No submission is necessary from other group members.
+- Assign group roles and note in the Canvas submission text box which who filled which roles.
+- The group developer will get code from the Class_Files folder on the Google Drive, then open in in Google Colab.
+- Complete the assignment together by writing and executing text and code cells as specified. For this assignment, do not use any features of Python that have not yet been discussed in the lessons or class sessions.
+- Discuss the reflection questions at the end of the exercise. The group reporter will type concise answers to each in the provided text box.
+- When you're finished and are ready to submit the exercise, the group developer will upload the completed notebook it to Canvas. No submission is necessary from other group members.
