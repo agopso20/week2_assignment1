@@ -11,7 +11,7 @@ You will form groups of four and work on this exercise together, submitting a si
 
 4. Documenter: Make sure code is adequately commented. Make sure any code solutions used from an online source like Stack Overflow are clearly noted and cited to avoid plagiarism.
 
-**In-class coding exercise #1**
+**In-class coding exercise #1** <br>
 Objective: This exercise introduces you to writing Python code in Google Colab notebooks and builds familiarity with variables and math operations, debugging code, and manipulating strings.
 
 Instructions:
