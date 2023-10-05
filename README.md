@@ -12,11 +12,11 @@ You will form groups of four and work on this exercise together, submitting a si
 4. Documenter: Make sure code is adequately commented. Make sure any code solutions used from an online source like Stack Overflow are clearly noted and cited to avoid plagiarism.
 
 **In-class coding exercise #1** <br>
-Objective: This exercise introduces you to writing Python code in Google Colab notebooks and builds familiarity with variables and math operations, debugging code, and manipulating strings.
+Objective: This exercise introduces you to writing Python code in Jupyter notebooks and builds familiarity with variables and math operations, debugging code, and manipulating strings.
 
 Instructions:
 
-1. Assign group roles and note in the Canvas submission text box which who filled which roles.
+1. Assign group roles and note in the Gradescope submission which who filled which roles.
 2. The group developer will clone the code from the GitHub repository, then open in JupyterHub. Don't forget to make a personal repository and add your group members as collaborators. You can do this by going to the repository settings (top panel) and selecting "Collaborators and Teams" under the "Access" section.
 3. In your JupyterHub terminal, change to your home directory. Run this line of code to clone the public classic repository into your local server:
 > ``` git clone git@github.com:OCEAN-215-2023/homework_1.git ```
